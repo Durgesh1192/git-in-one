@@ -1,4 +1,4 @@
 /mylogs.log
 *.log
 /index.html
-/contact.html
+ignore/contact.html
