@@ -1,2 +1,4 @@
-mylogs.log
-index.html
+/mylogs.log
+*.log
+/index.html
+/contact.html
